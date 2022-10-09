@@ -1,0 +1,27 @@
+h1 {
+    color: #0B1315;
+    border-bottom: #0B1315;
+}
+  
+body {
+    background-color:#FDBB30;
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+h2 {
+    margin-left: 100px;
+}
+  
+p {
+    margin-left: 300;
+}
+    
+h3{
+        color: #0B1315;
+        border-bottom: #0B1315;
+        margin-left: 120px;
+} 
+    
+hr{ 
+    border-top: 5px solid #0B1315; 
+}
